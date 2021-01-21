@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 jkstarclub is a special repository because its 'README.md' appears on my GitHub profile.
+
+
+### ⚡ Fun fact: Larboard Canada Mountains
+
+It is a special logo because it is made with the one of six garlics.
