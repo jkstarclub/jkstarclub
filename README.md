@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-**jkstarclub/jkstarclub** is the ✨ bluegreen ✨ repository.
+**jkstarclub/jkstarclub** has the color of ✨ bluegreen ✨ .
 
 Here are some ideas to get you started:
 
 🔭 I’m currently working on the portland cement.
 🌱 I’m currently learning fiber optic cable.
-👯 I’m looking to collaborate on laquer
+👯 I’m looking to collaborate on laquer thinner.
 🤔 I’m looking for help with twizzer.
 💬 Ask me about flying car.
 📫 How to reach me: john@larboard.ca
-😄 Pronouns: Recursive nouns
-⚡ Fun fact: Missed some days. Just do it.
+😄 Pronouns: Recursive nouns.
+⚡ Fun fact: Missed some days. Just Thurrrnder.
 
 ### ⚡ GitHub Profile Checklist
 
