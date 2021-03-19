@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jkstarclub/jkstarclub** is the ✨ bluegreen ✨ repository.>
+**jkstarclub/jkstarclub** is the ✨ bluegreen ✨ repository.
 
 Here are some ideas to get you started:
 
