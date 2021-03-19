@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 4. README practices
 5. Star at least one repository
 
-/Open Source List ::
+\section{open source list}
 1. AM32
 https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
-
+2. Headtrack
+https://github.com/dlktdr/HeadTracker/
