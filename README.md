@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 **jkstarclub/jkstarclub** has the color of ✨ bluegreen ✨ .
-
 Here are some ideas to get you started:
 
-🔭 I’m currently working on the portland cement.
-🌱 I’m currently learning fiber optic cable.
-👯 I’m looking to collaborate on laquer thinner.
-🤔 I’m looking for help with twizzer.
-💬 Ask me about flying car.
-📫 How to reach me: john@larboard.ca
-😄 Pronouns: Recursive nouns.
-⚡ Fun fact: Missed some days. Just Thurrrnda~~~ /\
+🔭🌱👯🤔💬📫😄⚡
+1. I’m currently working on the portland cement.
+2. I’m currently learning fiber optic cable.
+3. I’m looking to collaborate on laquer thinner.
+4. I’m looking for help with twizzer.
+5. Ask me about flying car.
+6. How to reach me: john@larboard.ca
+7. Pronouns: Recursive nouns.
+8. Fun fact: Just Thurrrnda~~~ /\
 
 ### ⚡ GitHub Profile Checklist
 
