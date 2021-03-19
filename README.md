@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 2. Incremental commits
 3. Green Squares
 4. Contribute to an open source project
-[!link]https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
 
 /Profile ::
 1. Username Professional
@@ -34,4 +33,8 @@ Here are some ideas to get you started:
 3. Meaningful names and descriptions
 4. README practices
 5. Star at least one repository
+
+/Open Source List ::
+1. AM32
+https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
 
