@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 7. Pronouns: Recursive nouns.
 8. Fun fact: Just Thurrrnda~~~ /\
 
+### Udacity Git Commit Message Style ###
+
+Incremental Recursive Professional
+
 ### ⚡ GitHub Profile Checklist
 
 /General ::
