@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 🔭🌱👯🤔💬📫😄⚡
 1. I’m currently working on the portland cement.
 2. I’m currently learning fiber optic cable.
-3. I’m looking to collaborate on laquer thinner.
+3. I’m looking to collaborate on lacquer thinner.
 4. I’m looking for help with twizzer.
 5. Ask me about flying car.
 6. How to reach me: john@larboard.ca
