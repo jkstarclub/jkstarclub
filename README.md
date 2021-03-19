@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 💬 Ask me about flying car.
 📫 How to reach me: john@larboard.ca
 😄 Pronouns: Recursive nouns.
-⚡ Fun fact: Missed some days. Just Thurrrnda~~~
+⚡ Fun fact: Missed some days. Just Thurrrnda~~~ /\
 
 ### ⚡ GitHub Profile Checklist
 
