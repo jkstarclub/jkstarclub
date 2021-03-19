@@ -1,23 +1,38 @@
 ### Hi there 👋
 
 <!--
-**jkstarclub/jkstarclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jkstarclub/jkstarclub** is the ✨ bluegreen ✨ repository.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on the portland cement.
+🌱 I’m currently learning fiber optic cable.
+👯 I’m looking to collaborate on laquer
+🤔 I’m looking for help with twizzer.
+💬 Ask me about flying car.
+📫 How to reach me: john@larboard.ca
+😄 Pronouns: Recursive nouns
+⚡ Fun fact: Missed some days. Just do it.
 
-jkstarclub is a special repository because its 'README.md' appears on my GitHub profile.
+### ⚡ GitHub Profile Checklist
 
+/General ::
+1. Three projects
+2. Incremental commits
+3. Green Squares
+4. Contribute to an open source project
+{https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware}
 
-### ⚡ Fun fact: Larboard Canada
+/Profile ::
+1. Username Professional
+2. Picture Professional
+3. Profile includes URL, Company, and Contact
+4. Profile includes my current location
 
-It is the logo.
+/Project ::
+1. Match the Udacity Git Commit Message Style Guide
+2. Forked appropriately
+3. Meaningful names and descriptions
+4. README practices
+5. Star at least one repository
+
