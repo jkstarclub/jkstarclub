@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**jkstarclub/jkstarclub** has the color of ✨ bluegreen ✨ .
+**jkstarclub/jkstarclub** ✨ bluegreen ✨
 Here are some ideas to get you started:
 
 🔭🌱👯🤔💬📫😄⚡
