@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 5. Ask me about flying car.
 6. How to reach me: john@larboard.ca
 7. Pronouns: Recursive nouns.
-8. Fun fact: Just Thurrrnda~~~ /\
+8. Fun fact: Just Thurrrn
 
 ### ⚡ Udacity Git Commit Message Style ###
 
@@ -43,3 +43,4 @@ Incremental Recursive Professional
 https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
 2. Headtrack
 https://github.com/dlktdr/HeadTracker/
+
