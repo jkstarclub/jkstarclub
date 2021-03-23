@@ -21,7 +21,12 @@ STM32L4R9I-DISCOVERY
 STM32L4R9I-EVAL
 STM32F469I-DISCOVERY
 
-feat. minor change
+System Requirements ⚡
+
+CMake 3.17: https://cmake.org/download
+MSVC v142: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+feat. minor changes
 
 In few days, you will learn
 
@@ -31,7 +36,8 @@ In few days, you will learn
  - asset management
  - styling controls
 
-If there is a track, spin around, 
+If there is a track, spin around like so, 
 
 Revolve: #123
+See also: #456 #789
 
