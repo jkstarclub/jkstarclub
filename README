@@ -2,8 +2,8 @@
 Welcome ✨
 
 I'm Aero Ready
-https://youtu.be/OpY1wS1aBok
-https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32
+{link}{https://youtu.be/OpY1wS1aBok}
+{link}{https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32}
 
 Here are some ideas to get things started:
 
@@ -25,7 +25,7 @@ STM32L4R9I-DISCOVERY
 STM32L4R9I-EVAL
 STM32F469I-DISCOVERY
 
-System Requirements ⚡
+:: System Requirements ::
 
 CMake 3.17: https://cmake.org/download
 MSVC v142: https://visualstudio.microsoft.com/visual-cpp-build-tools/
