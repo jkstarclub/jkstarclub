@@ -12,11 +12,24 @@ https://github.com/dlktdr/HeadTracker/
 3. Udacidrone
 https://github.com/udacity/udacidrone
 
+Programming Microcontrollers ⚡
+
+STM32F769I-DISCOVERY
+STM32F7508-DISCOVERY
+STM32H750B-DISCOVERY
+STM32L4R9I-DISCOVERY
+STM32L4R9I-EVAL
+STM32F469I-DISCOVERY
+
 feat. minor change
 
-Format
+In few days, you will learn
 
- - mavlink
+ - the package content
+ - the build process
+ - the specific components
+ - asset management
+ - styling controls
 
 If there is a track, spin around, 
 
