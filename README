@@ -1,32 +1,27 @@
 
-Welcome
-
-I'm BCIT Aero Ready.
+Welcome Aero Ready  ✨
 {link}{https://youtu.be/OpY1wS1aBok}
 {link}{https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32}
 
-* name, page, department, program
-* John Kim, 37, Transportation, Airport Operations
-
-Here are some open sources to get things started:
+Here are some links to get the adventure started:
 
 Checklist ⚡
 
 1. AM32
-https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
+    https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
 2. Headtrack
-https://github.com/dlktdr/HeadTracker/
+    https://github.com/dlktdr/HeadTracker/
 3. Udacidrone
-https://github.com/udacity/udacidrone
-
-Programming Microcontrollers ✨
-
-STM32F769I-DISCOVERY
-STM32F7508-DISCOVERY
-STM32H750B-DISCOVERY
-STM32L4R9I-DISCOVERY
-STM32L4R9I-EVAL
-STM32F469I-DISCOVERY
+    https://github.com/udacity/udacidrone
+4. Crazyfile
+    https://github.com/udacity/FCND-Controls-Crazyflie
+5. Programming Microcontrollers
+    STM32F769I-DISCOVERY
+    STM32F7508-DISCOVERY
+    STM32H750B-DISCOVERY
+    STM32L4R9I-DISCOVERY
+    STM32L4R9I-EVAL
+    STM32F469I-DISCOVERY
 
 :: System Requirements ::
 
@@ -43,7 +38,7 @@ In few days, you will learn
  - asset management
  - styling controls
 
-If there is a track, spin the turn around like so, 
+If there is a track, spin the turn like so, 
 
 Revolve: #123
 See also: #456 #789
