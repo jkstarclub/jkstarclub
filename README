@@ -14,9 +14,9 @@ Checklist ⚡
 2. Headtrack
     https://github.com/dlktdr/HeadTracker/
 3. Udacidrone
-    https://github.com/udacity/udacidrone
+    https://github.com/udacity/udacidrone/
 4. Crazyfile
-    https://github.com/udacity/FCND-Controls-Crazyflie
+    https://github.com/udacity/FCND-Controls-Crazyflie/
 5. Programming Microcontrollers
     STM32F769I-DISCOVERY
     STM32F7508-DISCOVERY
@@ -27,7 +27,7 @@ Checklist ⚡
 
 :: System Requirements ::
 
-CMake 3.17: https://cmake.org/download
+CMake 3.17: https://cmake.org/download/
 MSVC v142: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 feat. minor changes
