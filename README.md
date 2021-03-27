@@ -29,7 +29,7 @@ Here are some links to get things started:
 CMake 3.17: https://cmake.org/download/
 MSVC v142: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
-'''
+```
 
 feat. micro refinements
 
@@ -45,5 +45,5 @@ If there is a track, spin the turn like so:
 
 Revolve: #123
 
-'''
+```
 
