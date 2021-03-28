@@ -33,7 +33,7 @@ MSVC v142: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 feat. micro refinements
 
-In few days, you will learn
+In a few days, you will learn
 
  - the package content
  - the build process
