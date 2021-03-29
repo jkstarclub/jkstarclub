@@ -4,7 +4,7 @@ I am AeroReady ✨
 [Convocation](https://youtu.be/OpY1wS1aBok)
 [PDF](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
 
-Also, NFL Ready ::
+Also, NFL ready ::
 ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
 ## Checklist ⚡
@@ -36,13 +36,13 @@ MSVC v142: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 feat. micro refinements
 
-In a few days, you will learn
+In a few days, you will be able to:
 
- - the package content
- - the build process
- - the specific components
- - asset management
- - styling controls
+ - package content
+ - build process
+ - refine components
+ - do asset management
+ - let style control
 
 If there is a track, spin the turn like so: 
 
