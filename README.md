@@ -1,8 +1,11 @@
 # Welcome
 
 I am AeroReady ✨
-[here](https://youtu.be/OpY1wS1aBok)
-[here](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
+[Convocation](https://youtu.be/OpY1wS1aBok)
+[PDF](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
+
+Also, NFL Ready ::
+ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
 ## Checklist ⚡
 
