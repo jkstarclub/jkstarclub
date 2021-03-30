@@ -26,7 +26,7 @@ Here are some links to get things started:
     STM32L4R9I-DISCOVERY
     STM32L4R9I-EVAL
     STM32F469I-DISCOVERY
-6. Castle
+6. The Castle
     https://antofthy.gitlab.io/
 
 ## System Requirements ⚡
