@@ -26,6 +26,8 @@ Here are some links to get things started:
     STM32L4R9I-DISCOVERY
     STM32L4R9I-EVAL
     STM32F469I-DISCOVERY
+6. Castle
+    https://antofthy.gitlab.io/
 
 ## System Requirements ⚡
 
@@ -44,7 +46,7 @@ In a few days, you will be able to:
  - do asset management
  - let style control
 
-If there is a track, spin the turn like so: 
+If there is a track, curve the turn like so: 
 
 Revolve: #123
 
