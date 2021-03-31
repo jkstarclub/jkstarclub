@@ -52,39 +52,43 @@ Revolve: #123
 
 ```
 
-SIFT SURF HOG Hough Transform RANSAC Kalman Filter KF EKF UKF Point Cloud Library Particle Algorithm Voxels
+Motion Model: \\ ${X}_{k} = f({X}_{k-1}, {u}_{k}) + {W_k}$ \\
+Observation Model: \\ ${Z}_{k} = {h}({X}_{k}) + {V}_{k}$ \\
+Initialization: \\ $\hat{x}_{0} = {x}_{0}$, and ${P}_{0} = {P}_{init}$. \\
+Prediction: \\ $\hat{x}_{k,k-1} = {f}(\hat{x}_{k-1},{u}_{k}).$ \\
+The predicted covariance: \\ ${P}_{k,k-1} = \nabla{f}{P}_{k-1}\nabla{f}^{T}+{Q}_{k}$ \\
+The predicted observation value at time k: \\ $\hat{z}_{k,k-1} = {h}(\hat{x}_{k,k-1})$ \\
+Observation-Update: \\ $[\hat{x}_{k}] = [\hat{x}_{k,k-1}] + K[{z}_{k} - h(\hat{x}_{k,k-1})]$, \\
+${P}_{k} = {P}_{k,k-1} - {K}{S}_{k}{K}^{T}$ \\
+where: \\
+${S}_{k}$ \\
+${K}$ \\
+where $\nabla{h}$ is Jacobian Matrix. ${RV}_{k}$ The Covariance\\
 
-# Scale Invariant Feature Transform
+${SIFT}{SURF}{HOG}{HoughTransform}{RANSAC}{KalmanFilter}{KF}{EKF}{UKF}{PointCloudLibrary}{ParticleAlgorithm}{Voxels}$
+
+${Scale Invariant Feature Transform}$
 
 the scale space of images and extract the local extrema with Difference of Gaussian function
 
-# Speeded Up RobuFeatures
+${Speeded Up RobuFeatures}$
 
 the eterminant of Hessian blob detector / Euclidean distance
 
-# Histogram of Oriented Gradients
+${Histogram of Oriented Gradients}$
 
 feature extraction in local region by tracking orientation histograms of edge intensity
 
-# Result
+${random Hog LPB SURF BRIEF VLC SIFT}{VLC+LBP}$
+Hough transform feature extraction technique
 
-random Hog LPB SURF BRIEF VLC SIFT
-VLC and LBP
-
-# Hough Transform
-
-feature extraction technique
-
-# Random Sample Consensus
-
+${Random Sample Consensus}$
 an iterative method to estimate parameters of a mathematical model from a set of observed data that contains outliers / the goal is to determine the points in the space that project onto an image into a set of landmarks with known locations
 
-# Kalman Filter Family
-
+${Kalman Filter Family}$
 MEKF 'Car Park Dataset' 'Victoria Park Dataset' non linear SLAM.
 EKF The predicted observation value at time k is formulated like so where h is Jacobian matrix . R is the covariance of V.
 UKF a set of weighted sigma points are used to represent the stochastic characteristics of the state vector.
 IKF Iterated Kalman Filter
 Mean Slope
 
-EKF IEKF SEKF MEKF EKF IEKF SEKF MEKF UKF IUKF SUKF MEKF :|
