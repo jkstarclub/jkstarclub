@@ -52,11 +52,11 @@ Revolve: #123
 
 ```
 
-The Red Dice Probability Theorem
+# The Red Dice Probability Theorem
 
 Have you previously seen probability notation?
 Have you ever seen the basic rule of probability?
-For reference, we review those here.
+For the reference, we review those here.
 
 Probabilities are defined for events. An event is some outcome that
 we could potentially observe or experience, such as
