@@ -54,3 +54,24 @@ Revolve: #123
 
 SIFT SURF HOG Hough Transform RANSAC Kalman Filter KF EKF UKF Point Cloud Library Particle Algorithm Voxels
 
+# Scale Invariant Feature Transform
+
+the scale space of images and extract the local extrema with Difference of Gaussian function
+
+# Speeded Up RobuFeatures
+
+the eterminant of Hessian blob detector / Euclidean distance
+
+# Histogram of Oriented Gradients
+
+feature extraction in local region by tracking orientation histograms of edge intensity
+
+# Result
+
+random Hog LPB SURF BRIEF VLC SIFT
+VLC and LBP
+
+# Hough Transform
+
+feature extraction technique
+
