@@ -66,22 +66,33 @@ the result of rolling a fair six-sided die.
 
 In mathematical notation, we often write an event as a capital letter,
 
-for example, ${A}$ is the event that we roll a ${4}$
-on a fair six-sided die. This event has probability ${1/6}$,
-so we would write ${P}({A}) = {1}/{6}$.
+for example, $ {A} $ is the event that we roll a $ {4} $
+on a fair six-sided die. This event has probability $ {1/6} $,
+so we would write $ P({A}) = {1}/{6} $.
 
 We might want to represent the numerical result of the die roll
 as the random variable ${X}$, and then we could also write
-${P}({X=4}) = {1}/{6}$.
+$ P({X=4}) = {1}/{6} $.
 
-In the careful dice observation, probabilty must be:
+\section{Rule of Probability}
+\begin{equation}
+\sum^{6}_{i=1} P({X=i}) = 1.
+\end{equation}
+Probabilities must be between zero and one, i.e.,
+$ 0 \leq P({A}) \leq {1} $
+\\[.1in]
+The symbol $\sum^{6}_{i=1}$ denotes adding up the entries as i goes from 1 to 6.
+\\[.1in]
+If there is no gravity, $ \sum^{6}_{i=1} P({X=i}) = 0 $.
+
+In the careful dice observation, $ P({X=4}) $ must be:
 {0}, Between, and {2}.
 
 The Red Dice Theorem must result between {0} and {2}.
 
-Motion Model: \\ ${X}_{k} = f({X}_{k-1}, {u}_{k}) + {W_k}$ \\
-Observation Model: \\ ${Z}_{k} = {h}({X}_{k}) + {V}_{k}$ \\
-Initialization: \\ $\hat{x}_{0} = {x}_{0}$, and ${P}_{0} = {P}_{init}$. \\
+Motion Model: \\ $ {X_k} = f({X}_{k-1}, {u}_{k}) + {W_k} $ \\
+Observation Model: \\ $ {Z_k} = {h}({X_k}) + {V_k} $ \\
+Initialization: \\ $ \hat{x_0} = {x_0} $, and $ {P}_{0} = {P}_{init} $. \\
 Prediction: \\ $\hat{x}_{k,k-1} = {f}(\hat{x}_{k-1},{u}_{k}).$ \\
 The predicted covariance: \\ ${P}_{k,k-1} = \nabla{f}{P}_{k-1}\nabla{f}^{T}+{Q}_{k}$ \\
 The predicted observation value at time k: \\ $\hat{z}_{k,k-1} = {h}(\hat{x}_{k,k-1})$ \\
