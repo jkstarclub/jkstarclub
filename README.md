@@ -122,3 +122,5 @@ UKF a set of weighted sigma points are used to represent the stochastic characte
 IKF Iterated Kalman Filter
 Mean Slope
 
+$ P(A \cup B) = P(A) + P(B) - P(A \cap B) $
+
