@@ -5,6 +5,7 @@ I am AeroReady ✨
 [PDF](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
 
 Also, NFL ready ::
+[Click here to](https://jkstarclub.github.io/JKSTARCLUB/)
 ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
 ## Checklist ⚡
