@@ -116,7 +116,7 @@ Hough transform feature extraction technique
 ${Random Sample Consensus}$
 an iterative method to estimate parameters of a mathematical model from a set of observed data that contains outliers / the goal is to determine the points in the space that project onto an image into a set of landmarks with known locations
 
-# Kalman Filter Family
+# Kalman Filter Family The Opal
 MEKF 'Car Park Dataset' 'Victoria Park Dataset' non linear SLAM.
 EKF The predicted observation value at time k is formulated like so where h is Jacobian matrix . R is the covariance of V.
 UKF a set of weighted sigma points are used to represent the stochastic characteristics of the state vector.
