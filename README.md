@@ -8,7 +8,7 @@ Also, NFL ready ::
 [Click here to](https://jkstarclub.github.io/JKSTARCLUB/) Ruby & <br />
 ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
-## Checklist ⚡
+## Now The Opal ⚡
 
 Here are some links to get things started:
 
