@@ -1,4 +1,4 @@
-# Welcome
+# John Kim
 
 I am AeroReady ✨
 [Convocation](https://youtu.be/OpY1wS1aBok)
@@ -8,27 +8,38 @@ Also, NFL ready ::
 [Click here to](https://jkstarclub.github.io/JKSTARCLUB/) Ruby & <br />
 ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
-## Now The Opal ⚡
+# Welcome to GitHub
 
-Here are some links to get things started:
+I have seen Git or GitHub before. <br />
+I can use basic functions like branching, committing changes, and merging with other repositories. <br />
+I can use more advanced functions designed for collaborating with others and managing changes to source code. <br />
+I use Git and GitHub regularly in my day to day work. <br />
 
-1. AM32
+l have seen this language before.
+
+I am learning the basics like variables, conditionals, arithmetic, basic syntax, and string manipulation.
+
+I can read other peoples code. I can find and fix simple bugs.
+
+I can break down problems and prepared to reuse existing code, while implementing new functions/classes of my own and specialized libraries. I can trace the execution of most programs with ease.
+
+I can manufacture lean, well structured code to solve complex problems utilizing the full extent of the language's feature set.
+
+👋🔭🌱👯🤔💬📫😄⚡
+
+
+## Lean The Opal ⚡
+
+Hello goods and services:
+
+1. AM32 - Three innovation and two invention before the cereal
     https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
-2. Headtrack
-    https://github.com/dlktdr/HeadTracker/
-3. Udacidrone
-    https://github.com/udacity/udacidrone/
-4. Crazyfile
-    https://github.com/udacity/FCND-Controls-Crazyflie/
-5. Programming Microcontrollers
-    STM32F769I-DISCOVERY
+2. Programming Microcontrollers
     STM32F7508-DISCOVERY
-    STM32H750B-DISCOVERY
-    STM32L4R9I-DISCOVERY
     STM32L4R9I-EVAL
-    STM32F469I-DISCOVERY
-6. The Castle
+3. The Castle
     https://antofthy.gitlab.io/
+
 
 ## System Requirements ⚡
 
