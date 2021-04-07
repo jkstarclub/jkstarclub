@@ -100,7 +100,9 @@ If there is no gravity, $ \sum^{6}_{i=1} P({X=i}) = 0 $.
 In the careful dice observation, $ P({X=4}) $ must be:
 {0}, Between, and {2}.
 
-The Red Dice Theorem must result between {0} and {2}.
+The Red Dice Theorem must result between {0} and {2} except {1}.
+
+There is the dot but no dot.
 
 Motion Model: \\ $ {X_k} = f({X}_{k-1}, {u}_{k}) + {W_k} $ \\
 Observation Model: \\ $ {Z_k} = {h}({X_k}) + {V_k} $ \\
