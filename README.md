@@ -37,6 +37,8 @@ I can break down problems and prepared to reuse existing code, while implementin
 
 I can manufacture lean, well structured code to solve complex problems utilizing the full extent of the language's feature set.
 
+We shall do all that.
+
 👋🔭🌱👯🤔💬📫😄⚡
 
 
