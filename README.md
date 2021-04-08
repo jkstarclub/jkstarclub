@@ -44,7 +44,7 @@ We shall do all that.
 
 ## Lean The Opal ⚡
 
-Hello goods and services:
+Here, goods and services:
 
 1. AM32 - Three innovation and two invention before the cereal
     https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/
@@ -152,5 +152,5 @@ Mean Slope
 
 $ P(A \cup B) = P(A) + P(B) - P(A \cap B) $
 
-There must be an exit. (And where did I enter)
+There must be another cookie. (And how many)
 
