@@ -8,6 +8,18 @@ Also, NFL ready ::
 [Click here to](https://jkstarclub.github.io/JKSTARCLUB/) Ruby Slides & <br />
 ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
+# Universe is forever and temporary
+
+explore wires <br />
+exploit waves <br />
+all about & nothing about <br/>
+static frequency <br />
+your web <br />
+our web <br />
+my escape <br />
+here, ribbon <br />
+Build and execute the multiverse
+
 # Welcome to GitHub
 
 I have seen Git or GitHub before. <br />
