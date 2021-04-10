@@ -200,5 +200,5 @@ Mean Slope
 
 $ P(A \cup B) = P(A) + P(B) - P(A \cap B) $
 
-There must be another cookie. (And how many)
+There must be another cookie. (and how far is it?)
 
