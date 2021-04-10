@@ -10,6 +10,48 @@ ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
 # The Bayesian Frequentist
 
+Larboard Canada eBusiness Launching <br>
+May 1, 2021 <br>
+
+White Cup <br>
+Red Cup <br>
+Yellow Cup <br>
+Orange Cup <br>
+Green Cup <br>
+Blue Cup <br>
+Purple Cup <br>
+Black Cup <br>
+
+According to the bayesian, this cup's effectiveness does not represent you: \\
+$\innu$ \\
+$P(Immune \mid EffectiveCup)$ is different.\\
+$P(EffectiveCup \mid Immune)$ is different.\\
+$\innu$ \\
+What they are saying is the probability being immune \\
+given the cup's effectiveness. \\
+does not equal to the effectiveness of the cup \\
+given you are immune. \\
+You can represent the effectiveness of this cup. \\
+This cup size can not possibly represent you. \\
+If you can understand this, you will realize \\
+the herb inside this cup is very effective. \\
+The effectiveness of the herb \\
+currently invisible under the soil \\
+which can only wait for you \\
+to be effective. \\
+$\innu$ \\
+The G+Lar Cup.\\
+$\innu$ \\
+Rain it. \\
+Wind it. \\
+Sun it \\
+$\innu$ \\
+Your Cup. \\
+Your Kitchen. \\
+$\innu$ \\
+Only you can see the herb. \\
+Cheers.
+
 1) The frequentist can be considered objective when we want to forecast the outcome of individually connected ecosystem. We can predict the movement of the stars because they are connected and synchronous. The bayesian is considered objective when the subjects have an absolute belief. We can forecast whatever event will occur based on their absolute belief. For example, if a micro appointed assembly knows someone has a strong belief than the others, that someone does not belong to an event of whatever is not special being to be vice versa. <br>
 2) The frequentist fails when the subject is too large or too small to be connected in one dimension. The bayesian fails when the subject is AI. <br>
 3) When the subject is a dot, a successful frequentist assume that it will explode. A successful bayesian would say it is one dollar. And 1 + 1 regardless of our belief.
