@@ -10,7 +10,7 @@ ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
 # The Bayesian Frequentist
 
-1) The frequentist can be considered objective when we want to forecast the outcome of individually connected ecosystem. We can predict the movement of the stars because they are connected and synchronous. The Bayesian is considered objective when the subjects have an absolute belief. We can forecast whatever event will occur based on their absolute belief. For example, if a micro appointed assembly knows someone has a strong belief than the others, that someone does not belong to an event of whatever is not special being to be vice versa. <br>
+1) The frequentist can be considered objective when we want to forecast the outcome of individually connected ecosystem. We can predict the movement of the stars because they are connected and synchronous. The bayesian is considered objective when the subjects have an absolute belief. We can forecast whatever event will occur based on their absolute belief. For example, if a micro appointed assembly knows someone has a strong belief than the others, that someone does not belong to an event of whatever is not special being to be vice versa. <br>
 2) The frequentist fails when the subject is too large or too small to be connected in one dimension. The Bayesian fails when the subject is human. <br>
 3) When the subject is a dot. The frequentist can successfully assume that it will explode. The Bayesian would say it is just one dollar. And 1 + 1 regardless of your belief.
 
