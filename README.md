@@ -32,7 +32,8 @@ given the cup's effectiveness. \\
 does not equal to the effectiveness of the cup \\
 given you are immune. \\
 You can represent the effectiveness of this cup. \\
-This cup size can not possibly represent you. \\
+This cup size can not possibly represent you but \\
+you can certainly represent this herbal cup event \\
 If you can understand this, you will realize \\
 the herb inside this cup is very effective. \\
 The effectiveness of the herb \\
