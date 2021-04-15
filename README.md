@@ -2,7 +2,7 @@
 
 I am AeroReady ✨
 
-[PDF](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
+[Convocation](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
 
 Also, NFL ready ::
 [Click here to](https://jkstarclub.github.io/JKSTARCLUB/) Ruby Slides & <br />
@@ -203,5 +203,5 @@ Mean Slope
 
 $ P(A \cup B) = P(A) + P(B) - P(A \cap B) $
 
-There must be another cookie. (and how far is it?)
+If there must be another cookie, source your cookie. 
 
