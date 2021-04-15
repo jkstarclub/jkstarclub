@@ -1,7 +1,7 @@
 # John Kim
 
 I am AeroReady ✨
-[Convocation](https://youtu.be/OpY1wS1aBok)
+
 [PDF](https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/32)
 
 Also, NFL ready ::
@@ -129,11 +129,11 @@ Revolve: #123
 
 ```
 
-# The Red Dice Probability Theorem
+# Probabilistic Dice
 
-Have you previously seen probability notation?
-Have you ever seen the basic rule of probability?
-For the reference, we review those here.
+Say Governance
+Say Resilient
+Review Sustainable
 
 Probabilities are defined for events. An event is some outcome that
 we could potentially observe or experience, such as
