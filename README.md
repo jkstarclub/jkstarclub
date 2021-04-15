@@ -6,7 +6,9 @@ I am AeroReady ✨
 
 Also, NFL ready ::
 [Click here to](https://jkstarclub.github.io/JKSTARCLUB/) Ruby Slides & <br />
-ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
+ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address <br />
+
+Pengwin >> Docker >> Resources >> WSL Integration
 
 # The Bayesian Frequentist
 
