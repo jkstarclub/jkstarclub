@@ -131,9 +131,9 @@ Revolve: #123
 
 # Probabilistic Dice
 
-Say Governance
-Say Resilient
-Review Sustainable
+Say Governance <br />
+Say Resilient <br />
+Review Sustainable Weights
 
 Probabilities are defined for events. An event is some outcome that
 we could potentially observe or experience, such as
