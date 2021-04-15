@@ -57,7 +57,7 @@ Cheers.
 
 1) The frequentist can be considered objective when we want to forecast the outcome of individually connected ecosystem. We can predict the movement of the stars because they are connected and synchronous. The bayesian is considered objective when the subjects have an absolute belief. We can forecast whatever event will occur based on their absolute belief. For example, if a micro appointed assembly knows someone has a strong belief than the others, that someone does not belong to an event of whatever is not special being to be vice versa. <br>
 2) The frequentist fails when the subject is too heavy or too light to be connected in one dimension. The bayesian fails when the subject is AI. <br>
-3) When the subject is a dot, a successful frequentist assume that it will explode. A successful bayesian would say it is one dollar. And 1 + 1 regardless of our belief.
+3) When the subject is a dot, a successful frequentist pins that it will explode. A successful bayesian would say it is one dollar. And 1 + 1 regardless of our belief.
 
 # Universe is forever and temporary
 
