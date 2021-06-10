@@ -1,8 +1,7 @@
 # John Kim
 
-Convocation
-AeroReady (https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/36)
-ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address <br />
+https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/36 <br />
+ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address 
 
 # Cloud Native Fundamentals Scholarship Program
 
