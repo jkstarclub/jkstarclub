@@ -26,7 +26,7 @@ June 22
 # Welcome and Congratulations
 
 You earned your seat. <br />
-Sofa. <br />
+Triple Large Sofa. <br />
 Manually controlling all motors. <br />
 Roll Picth Yaw. <br />
 Roll Pitch Yaw. <br />
