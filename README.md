@@ -40,4 +40,5 @@ Orchestration Trade-Offs Monoliths. <br />
 # Challenge Phase Requirements
 
 Complete all the lessons.
-Join the Community.
+Join the Community. <br />
+arning_ta_toy = ArningTaToy
