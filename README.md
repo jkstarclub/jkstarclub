@@ -31,7 +31,7 @@ Triple Large Sofa. <br />
 Manually controlling all motors. <br />
 Roll Picth Yaw. <br />
 Roll Pitch Yaw. <br />
-Orchestration Trade-Offs Monoliths. <br />
+Orchestration Trade-Offs The Monolith. <br />
 가로 가로 세로 세로 세로 갸로 세로 <br />
 대각 대각 댸각 댸각 대각 대각 새로 <br />
 가로 세로 가로 새로 대각 댸각 세로 <br />
