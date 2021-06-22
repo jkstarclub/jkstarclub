@@ -25,7 +25,7 @@ June 22
 
 # Welcome and Congratulations
 
-Good Work.
+Good Work. <br />
 You earned your seat. <br />
 Triple Large Sofa. <br />
 Manually controlling all motors. <br />
