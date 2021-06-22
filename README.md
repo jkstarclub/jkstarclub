@@ -34,7 +34,7 @@ Orchestration Trade-Offs Monoliths. <br />
 가로 가로 세로 세로 세로 갸로 세로 <br />
 대각 대각 댸각 댸각 대각 대각 새로 <br />
 가로 세로 가로 새로 대각 댸각 세로 <br />
-가로 가로 갸로 갸로 세로 가로 대각 <br />
+가로 가로 갸로 갸로 세로 가로 댸각 <br />
 
 # Challenge Phase Requirements
 
