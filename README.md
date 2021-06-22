@@ -1,6 +1,6 @@
 # John Kim
 
-Airport Operations
+Airport Operations <br />
 https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/36 <br />
 ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address 
 
@@ -25,7 +25,15 @@ June 22
 
 # Welcome and Congratulations
 
-You earned your seat.
+You earned your seat. <br />
+Manually controlling all motors. <br />
+Roll Picth Yaw. <br />
+Roll Pitch Yaw. <br />
+Orchestration Trade-Offs Monoliths. <br />
+가로 가로 세로 세로 세로 가로 세로 <br />
+대각 대각 대각 대각 대각 대각 새로 <br />
+가로 세로 가로 세로 대각 대각 세로 <br />
+가로 가로 가로 가로 세로 가로 대각 <br />
 
 # Challenge Phase Requirements
 
