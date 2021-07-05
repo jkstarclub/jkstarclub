@@ -13,12 +13,12 @@ ssh -N -f -L localhost:8889:localhost:8889 user@jupyter-ip-address
 
 # Ai Python
 
-fruit list
+list
 fruits.append('tangerine')
 
 # Flying Car
 
-graph simulation
+graph
 for i in ['kiwi', 'orange', 'pear']:
   fruits.append(i)
 
