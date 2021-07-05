@@ -2,6 +2,10 @@
 
 https://issuu.com/bcit/docs/4488_convo_digital_program_isuu/36 <br />
 
+fruits = []
+
+squares = [x**2 for x in range(5)]
+
 # Resource Requirement
 
 squares = [x**2 for x in range(10)]
